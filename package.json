@@ -1,0 +1,13 @@
+{
+  "name": "dodge",
+  "version": "1.0.0",
+  "scripts": {
+    "watch": "coffee -w -c -j dodge.js -- engine.coffee game.coffee"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coffeescript": "^2.7.0"
+  }
+}
